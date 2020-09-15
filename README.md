@@ -1,1 +1,1 @@
-This repo contains the supporting code for the article [Building a financial machine learning pipeline with Alpaca] (https://maxbodoia.com/building-a-financial-machine-learning-pipeline-with-alpaca-part-1/)
+This repo contains the supporting code for the article [Building a financial machine learning pipeline with Alpaca](https://maxbodoia.com/building-a-financial-machine-learning-pipeline-with-alpaca-part-1/)
